@@ -1,0 +1,26 @@
+body{
+	background-color :#1C2951;
+	font-family:verdana;
+	text-align: center;
+}
+ol{
+	color:red;
+}
+nav li
+{
+	margin:10px 20px 0 20px;
+	display: inline;
+	text-transform: uppercase;
+}
+nav a
+{
+	text-decoration: none;
+	color:white	;
+
+}
+nav
+{
+	width:40%;
+	height: 70px;
+	margin:auto;
+}
